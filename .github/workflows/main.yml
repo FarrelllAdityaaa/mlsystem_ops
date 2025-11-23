@@ -1,4 +1,4 @@
-name: CI Mlflow
+name: CI/CD Mlflow
  
 on:
   push:
